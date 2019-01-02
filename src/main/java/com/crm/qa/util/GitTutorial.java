@@ -72,5 +72,27 @@ Steps to set up github account
  
  19. For pusing the code SSH key is required, otherwise it will not allow to push the code
  20. For pulling the code, it does not need any key.
+
  
+# Steps to pull the code
+1. go to the required directory, where you want to pull the code.
+ cd path_of_the_directory
+ 
+ or you can create a directory
+ mkdir dirctory_name
+ 
+2. move to that directory
+ cd directory_path
+ 
+3. For pulling code first time, we need to clone the code. Clone means making a local repository for pulling the code. ITs like a downloading complete project from git to local storage.
+ git clone git_diectorylink(from where you are pulling from git)
+ 
+4. Then go to eclipse and and import the project. 
+5.  Next time you need to only pull the code
+6. Go to the local directory
+cd local_project_path
+
+7. Pull the clode from master branch
+git pull origin master
+
 */
