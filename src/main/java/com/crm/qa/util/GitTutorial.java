@@ -4,8 +4,6 @@ public class GitTutorial {
 
 }
 
-
-
 /*
 GitHUB: GitHub is a code hosting platform for collaboration and version control. (Website)
 GitHub lets you (and others) work together on projects.
@@ -50,7 +48,8 @@ Steps to set up github account
  10. Now we get message of empty git in the command prompt.
  11. This .git file is hidden inside the project. To view it
  12. Type ls-alt, it will show .git file here. (this can be view in window by right click inside the project)
- 13. Copy path of the githud repository and paste it in cmd. example(git remote add origin https://github.com/Kushlata/FreeCRM.git)
+ 13. Copy path of the githud repository and paste it in cmd. example(
+ git remote add origin https://github.com/Kushlata/FreeCRM.git)
   Since the repo is present remotely it is showing remote in the path. This step will register project at this location.
  
  Connection between project and git repository get establish via this step.
