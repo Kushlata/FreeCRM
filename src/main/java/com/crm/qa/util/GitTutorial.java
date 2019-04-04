@@ -35,8 +35,8 @@ Steps to set up github account
 1. Go to site www.github.com
 2. Create your personal account
  Username: Kushlata
- Email address: Kushalata1995@gmail.com
- Password: lata@1995
+ Email address: 
+ Password: 
  
  3. after creation of the account, verify your email.
  4. Click on add button to create a repository.
