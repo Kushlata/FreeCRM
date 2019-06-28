@@ -29,7 +29,7 @@ Different source management tools:
 GIT, SVN, TFS(Microsoft), VSTS(Microsoft), VSS, BitBucket
 
 
-Git init--->Git add remote origin(url)----> Git status----->git add-----> git status----> git commit----> git push origin master(branch name)
+Git init--->Git remote add origin(url)----> Git status----->git add-----> git status----> git commit----> git push origin master(branch name)
 
 Steps to set up github account
 1. Go to site www.github.com
